@@ -1,0 +1,23 @@
+{
+"user_json": {
+  "first_name": "Jon",
+  "last_name": "Doe",
+  "email": "jane.doe@gmail.com",
+  "phone": "+48100000000",
+  "mobile_phone": "+48101000000",
+  "street1": "Apple road, 66",
+  "street2": "Pear road, 77",
+  "city": "AnonCity",
+  "postal_code": "11111",
+  "country": "Thatcountry",
+  "company_position": "manager",
+  "company_name": "Lol Ltd.",
+  "company_place": "Lolcity",
+  "www": "http://www.lolltd.com",
+  "facebook": "",
+  "linkedin": "",
+  "tags": [],
+  "type": "hobby",
+  "background": "1"
+}
+}
